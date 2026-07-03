@@ -1,0 +1,18 @@
+field,required,description
+accession_id,yes,Stable identifier such as EMP-ART-0001
+title,yes,Human-readable artifact title
+artifact_type,yes,Manual article source_code screenshot disk_image interview web_page review forum_post other
+creator,no,Author creator publisher or maintainer when known
+source_url,no,Original public URL when applicable
+archive_location,no,Private/local archive path or external archive reference when applicable
+publication_date,no,Publication or release date if known
+accessed_date,yes,Date the source was accessed
+version_or_platform,no,Relevant Empire version platform or lineage
+rights_status,yes,Known rights status or working assumption
+redistribution_policy,yes,How repo may refer to or include the artifact
+provenance_notes,no,How the artifact was found and why it matters
+reliability,yes,high medium low unknown
+human_context,no,People communities institutions or memories connected to the artifact
+summary,no,Short factual summary
+open_questions,no,Questions raised by the artifact
+related_accessions,no,Other accession IDs related to this artifact
